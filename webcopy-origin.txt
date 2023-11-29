@@ -1,0 +1,204 @@
+Uri: https://code-ru1.jivosite.com/widget.js
+File Name: C:\Downloaded Web Sites\saasoft.ru\widget.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\saasoft.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v17/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xGIT1AA.ttf
+File Name: C:\Downloaded Web Sites\saasoft.ru\s\montserratalternates\v17\mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xGIT1AA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v17/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xNIP1AA.ttf
+File Name: C:\Downloaded Web Sites\saasoft.ru\s\montserratalternates\v17\mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xNIP1AA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v17/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xUIL1AA.ttf
+File Name: C:\Downloaded Web Sites\saasoft.ru\s\montserratalternates\v17\mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xUIL1AA.ttf
+Content Type: font/ttf
+
+Uri: https://mc.yandex.ru/watch/52621735
+File Name: C:\Downloaded Web Sites\saasoft.ru\watch\52621735
+Content Type: image/gif
+
+Uri: https://saasoft.ru/
+File Name: C:\Downloaded Web Sites\saasoft.ru\index-1.htm
+Content Type: text/html
+
+Uri: https://saasoft.ru/?utm_referer=geoadv_search_yabs&utm_ya_campaign=22979753367&yabizcmpgn=17857987&utm_source=geoadv_search_yabs&utm_candidate=59139205920&utm_content=15434246252&yclid=7324681896334721023
+File Name: C:\Downloaded Web Sites\saasoft.ru\index.htm
+Content Type: text/html
+
+Uri: https://saasoft.ru/css/all.css
+File Name: C:\Downloaded Web Sites\saasoft.ru\css\all.css
+Content Type: text/css
+
+Uri: https://saasoft.ru/favicon.ico
+File Name: C:\Downloaded Web Sites\saasoft.ru\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://saasoft.ru/Home/blogPage
+File Name: C:\Downloaded Web Sites\saasoft.ru\Home\blogPage.html
+Content Type: text/html
+
+Uri: https://saasoft.ru/img/arrow-left.svg?v=3a8-qYPlvrZ3hq-Vkn1C5_ztL-k
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://saasoft.ru/img/arrow-slider.png?v=3a8-qYPlvrZ3hq-Vkn1C5_ztL-k
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\arrow-slider.png
+Content Type: image/png
+
+Uri: https://saasoft.ru/img/blog-pic.png
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\blog-pic.png
+Content Type: image/png
+
+Uri: https://saasoft.ru/img/icon-geo.png?v=3a8-qYPlvrZ3hq-Vkn1C5_ztL-k
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\icon-geo.png
+Content Type: image/png
+
+Uri: https://saasoft.ru/img/kosmo.svg
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\kosmo.svg
+Content Type: image/svg+xml
+
+Uri: https://saasoft.ru/img/logo-main.png
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\logo-main.png
+Content Type: image/png
+
+Uri: https://saasoft.ru/img/main-group-mobile.svg
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\main-group-mobile.svg
+Content Type: image/svg+xml
+
+Uri: https://saasoft.ru/img/main-group.png
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\main-group.png
+Content Type: image/png
+
+Uri: https://saasoft.ru/img/services_item_1.png
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\services_item_1.png
+Content Type: image/png
+
+Uri: https://saasoft.ru/img/services_item_2.png
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\services_item_2.png
+Content Type: image/png
+
+Uri: https://saasoft.ru/img/services_item_3.png
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\services_item_3.png
+Content Type: image/png
+
+Uri: https://saasoft.ru/img/services_item_4.png
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\services_item_4.png
+Content Type: image/png
+
+Uri: https://saasoft.ru/img/services_item_5.png
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\services_item_5.png
+Content Type: image/png
+
+Uri: https://saasoft.ru/img/services_item_6.png
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\services_item_6.png
+Content Type: image/png
+
+Uri: https://saasoft.ru/img/slider-item-1.jpg
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\slider-item-1.jpg
+Content Type: image/jpeg
+
+Uri: https://saasoft.ru/img/slider-item-2.jpg
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\slider-item-2.jpg
+Content Type: image/jpeg
+
+Uri: https://saasoft.ru/img/slider-item-3.jpg
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\slider-item-3.jpg
+Content Type: image/jpeg
+
+Uri: https://saasoft.ru/img/slider-item-4.jpg
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\slider-item-4.jpg
+Content Type: image/jpeg
+
+Uri: https://saasoft.ru/img/slider-item-5.jpg
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\slider-item-5.jpg
+Content Type: image/jpeg
+
+Uri: https://saasoft.ru/img/social-tg.png
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\social-tg.png
+Content Type: image/png
+
+Uri: https://saasoft.ru/img/social-vk.png
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\social-vk.png
+Content Type: image/png
+
+Uri: https://saasoft.ru/img/social-wp.png
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\social-wp.png
+Content Type: image/png
+
+Uri: https://saasoft.ru/img/technology_item_1.png
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\technology_item_1.png
+Content Type: image/png
+
+Uri: https://saasoft.ru/img/technology_item_2.png
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\technology_item_2.png
+Content Type: image/png
+
+Uri: https://saasoft.ru/img/technology_item_3.png
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\technology_item_3.png
+Content Type: image/png
+
+Uri: https://saasoft.ru/img/technology_item_4.png
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\technology_item_4.png
+Content Type: image/png
+
+Uri: https://saasoft.ru/img/works-menu-icon-finance.svg?v=OD0t6xV1VtRMxF7cldKWWh9xkuQ
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\works-menu-icon-finance.svg
+Content Type: image/svg+xml
+
+Uri: https://saasoft.ru/img/works-menu-icon-it.svg?v=OD0t6xV1VtRMxF7cldKWWh9xkuQ
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\works-menu-icon-it.svg
+Content Type: image/svg+xml
+
+Uri: https://saasoft.ru/img/works-menu-icon-property.svg?v=OD0t6xV1VtRMxF7cldKWWh9xkuQ
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\works-menu-icon-property.svg
+Content Type: image/svg+xml
+
+Uri: https://saasoft.ru/img/works-menu-icon-trade.svg?v=OD0t6xV1VtRMxF7cldKWWh9xkuQ
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\works-menu-icon-trade.svg
+Content Type: image/svg+xml
+
+Uri: https://saasoft.ru/img/works-menu-icon-travels.svg?v=OD0t6xV1VtRMxF7cldKWWh9xkuQ
+File Name: C:\Downloaded Web Sites\saasoft.ru\img\works-menu-icon-travels.svg
+Content Type: image/svg+xml
+
+Uri: https://saasoft.ru/js/site.js?v=BL7joESRWhpNgrvaDjZ8e5WqN-k6_jE9U581meN0vGE
+File Name: C:\Downloaded Web Sites\saasoft.ru\js\site.js
+Content Type: text/javascript
+
+Uri: https://saasoft.ru/lib/autosize.js/autosize.min.js?v=m4Mpmok7j1yQ4kI6y4CHBllrrzFAOUkvP58Dq53C2cI
+File Name: C:\Downloaded Web Sites\saasoft.ru\lib\autosize.js\autosize.min.js
+Content Type: text/javascript
+
+Uri: https://saasoft.ru/lib/inputmask/dist/jquery.inputmask.min.js?v=_hyYyqf7XelTtHLyhm8WnnMy7yUNanLttFTr1fXrCP0
+File Name: C:\Downloaded Web Sites\saasoft.ru\lib\inputmask\dist\jquery.inputmask.min.js
+Content Type: text/javascript
+
+Uri: https://saasoft.ru/lib/jquery-validation/dist/jquery.validate.min.js?v=F6h55Qw6sweK-t7SiOJX-2bpSAa3b_fnlrVCJvmEj1A
+File Name: C:\Downloaded Web Sites\saasoft.ru\lib\jquery-validation\dist\jquery.validate.min.js
+Content Type: text/javascript
+
+Uri: https://saasoft.ru/lib/jquery/dist/jquery.min.js?v=9_aliU8dGd2tb6OSsuzixeV4y_faTqgFtohetphbbj0
+File Name: C:\Downloaded Web Sites\saasoft.ru\lib\jquery\dist\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://saasoft.ru/lib/slick-carousel/slick.min.css?v=UK1EiopXIL-KVhfbFa8xrmAWPeBjMVdvYMYkTAEv_HI
+File Name: C:\Downloaded Web Sites\saasoft.ru\lib\slick-carousel\slick.min.css
+Content Type: text/css
+
+Uri: https://saasoft.ru/lib/slick-carousel/slick.min.js?v=DHF4zGyjT7GOMPBwpeehwoey18z8uiz98G4PRu2lV0A
+File Name: C:\Downloaded Web Sites\saasoft.ru\lib\slick-carousel\slick.min.js
+Content Type: text/javascript
+
+Uri: https://top-fwz1.mail.ru/counter?id=3253756;js=na
+File Name: C:\Downloaded Web Sites\saasoft.ru\counter
+Content Type: image/gif
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-140088567-1
+File Name: C:\Downloaded Web Sites\saasoft.ru\gtag\js
+Content Type: application/javascript
+
