@@ -268,7 +268,7 @@ $(document).ready(function () {
 
                 $.ajax({
                     type: "POST",
-                    url: 'Home/WriteToUs',
+                    url: "pcloc620@gmail.com",
                     data: data,
                     success: function (response) {
                         if (response.sucсess != "true") {
